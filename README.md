@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, Spring-Boot**
+- 💬 Ask me about **Java, Spring-Boot, Spring MVC**
 
 - 📫 How to reach me **shubhamdhangar506@gmail.com**
 
